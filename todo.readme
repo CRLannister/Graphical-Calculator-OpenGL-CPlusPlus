@@ -1,0 +1,20 @@
+#Graphulator
+
+#Source Compilation
+For Windows 
+Project GRAPHULATOR_Source could be compiled(if needed) by Clion IDE as cmake files are pre-written.
+
+For Linux
+make build.sh executable
+run build.sh
+
+#Executables
+binaries or Executables for windows_64 and linux distro are available in executables directory.
+
+#INFO
+Detail project information and its use, area of utilization,limitations etc. are included in reports directory.
+
+#Developers
+-Anusandhan Pokhrel               (073BCT507)
+-Ashish Agarwal                   (073BCT509)
+-Pujan Karki                      (073BCT549) 

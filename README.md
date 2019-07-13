@@ -2,7 +2,7 @@
 3rd semester OOP Project on Graphulator.
 It is aimed to process all the calculating processes along with the Graphical presentation.
 Languages used:C++
-and Graphics is targeted to use OpenGl specification.\
+and Graphics is targeted to use OpenGl specification.
 
 ![image1](https://github.com/CRLannister/Sem11OOP/tree/master/GRAPHULATOR_Source/md_res/one.png)\
 ![image2](https://github.com/CRLannister/Sem11OOP/tree/master/GRAPHULATOR_Source/md_res/two.png)\

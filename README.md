@@ -3,3 +3,8 @@
 It is aimed to process all the calculating processes along with the Graphical presentation.
 Languages used:C++
 and Graphics is targeted to use OpenGl specification.
+![images]
+![images]
+![images]
+![images]
+![images]
